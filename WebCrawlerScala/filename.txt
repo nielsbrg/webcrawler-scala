@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------------------------------------------
+RESULTS OF CRAWL FOR SEARCHES
+scala akka
+akka actors
+actors communication
+--------------------------------------------------------------------------------------------------------------------
+RELEVANCE SCORE : 15 for URL http://alvinalexander.com/scala/scala-parallel-programming-collections-par-performance
+RELEVANCE SCORE : 15 for URL http://alvinalexander.com/scala/how-merge-scala-lists-concatenate
+RELEVANCE SCORE : 50 for URL http://www.deadcoderising.com/concurrency-made-easy-with-scala-and-akka/
+RELEVANCE SCORE : 15 for URL http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/
+RELEVANCE SCORE : 120 for URL http://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html
+RELEVANCE SCORE : 10 for URL http://alvinalexander.com/scala/scala-ternary-operator-syntax
+RELEVANCE SCORE : 20 for URL http://www.deadcoderising.com/java-8-no-more-loops/
+RELEVANCE SCORE : 10 for URL http://alvinalexander.com/scala/declare-null-var-variable-field-before-try-catch-finally-block
+RELEVANCE SCORE : 20 for URL http://www.scala-lang.org/docu/files/collections-api/collections_46.html
+RELEVANCE SCORE : 25 for URL http://alvinalexander.com/scala/how-to-create-scala-xml-literals
+RELEVANCE SCORE : 100 for URL http://doc.akka.io/docs/akka/2.0/intro/getting-started-first-scala.html
+RELEVANCE SCORE : 30 for URL http://alvinalexander.com/scala/how-to-set-java-jvm-command-line-arguments-when-running-scala-app
+RELEVANCE SCORE : 10 for URL http://alvinalexander.com/scala/installing-scalatest
+RELEVANCE SCORE : 10 for URL http://alvinalexander.com/scala/how-to-extract-data-from-xml-nodes-in-scala
+RELEVANCE SCORE : 25 for URL http://www.deadcoderising.com/java-8-take-your-abstractions-to-the-next-level/
+RELEVANCE SCORE : 50 for URL http://www.deadcoderising.com/concurrency-made-easy-with-scala-and-akka/
+RELEVANCE SCORE : 15 for URL http://alvinalexander.com/scala/how-to-quit-stop-exit-scala-actor
+RELEVANCE SCORE : 20 for URL http://alvinalexander.com/scala/simple-scala-akka-actor-examples-hello-world-actors
+RELEVANCE SCORE : 15 for URL http://alvinalexander.com/scala/using-scala-map-tuples-in-anonymous-function
+RELEVANCE SCORE : 50 for URL http://alvinalexander.com/scala/how-to-use-javaplot-in-scala-repl
+RELEVANCE SCORE : 80 for URL http://alvinalexander.com/scala/converting-java-collections-to-scala-list-map-array
+
